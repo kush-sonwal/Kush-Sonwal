@@ -1,13 +1,20 @@
-## Hi there 👋
+# Hi there! 👋  
 
-I'm Kush Sonwal, a 19-year-old tech enthusiast from New Delhi, India. 🇮🇳
+I'm **Kush Sonwal**, a 19-year-old tech enthusiast from New Delhi, India. 🇮🇳  
 
-  🔍 I have a keen interest in cybersecurity, currently exploring Ethical Hacking to enhance my understanding of digital security.
+🔍 **Cybersecurity Enthusiast:** Currently diving into the exciting world of Ethical Hacking to strengthen my knowledge of digital security.  
 
-  ✨ I'm proficient in Frontend Web Development, where I work with technologies like HTML, CSS, and JavaScript to create engaging user experiences.
+✨ **Frontend Developer:** I specialize in creating engaging user experiences with technologies like:  
+- HTML  
+- CSS  
+- JavaScript  
 
-  📬 Reach out to me at [sonwalkush19@gmail.com] or find me on LinkedIn to connect.
+📬 **Get in Touch:**  
+- Email: [sonwalkush19@gmail.com](mailto:sonwalkush19@gmail.com)  
+- LinkedIn: [Connect with me](#)  
 
-  🚀 Don’t forget to check out my latest projects and see what I’ve been building! 
+🚀 **Projects:**  
+Check out my repositories to see the projects I’ve been working on.  
 
-Let’s team up and make something amazing. 
+💡 Let’s collaborate and create something amazing together! 😊  
+ 
