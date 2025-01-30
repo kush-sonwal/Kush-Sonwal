@@ -1,4 +1,7 @@
-# Hey there! 👋  
+
+<h1 align="center">
+  Hey there! 👋 
+</h1>
 
 I'm **Kush Sonwal**, a 19-year-old tech enthusiast from New Delhi, India. 🇮🇳  
 
