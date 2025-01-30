@@ -3,9 +3,7 @@
   Hey there! 👋 
 </h1>
 
-<p align="center"> 
-  I'm **Kush Sonwal**, a 19-year-old tech enthusiast from New Delhi, India. 🇮🇳  
-</p>
+I'm **Kush Sonwal**, a 19-year-old tech enthusiast from New Delhi, India. 🇮🇳 
 
 - 🔍 **Cybersecurity Enthusiast:** Currently exploring Ethical Hacking to enhance my understanding of digital security.  
 
