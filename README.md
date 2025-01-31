@@ -18,3 +18,8 @@ I'm **Kush Sonwal**, a 19-year-old tech enthusiast from New Delhi, India. 🇮�
 - 🚀 **Projects:** Check out my repositories to see the projects I’ve been working on.  
 
 - 💡 Let’s collaborate and create something amazing together!   
+
+
+# Skills
+
+https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=yellow&labelColor=black
